@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ranjeet0728U/leetcode/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
