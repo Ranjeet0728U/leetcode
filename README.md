@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ranjeet0728U/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ranjeet0728U/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ranjeet0728U/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ranjeet0728U/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## String
 |  |
 | ------- |
