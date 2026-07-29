@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0002-add-two-numbers) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ranjeet0728U/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -53,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ranjeet0728U/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
 |  |
 | ------- |
