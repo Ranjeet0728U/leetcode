@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Stack
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Ranjeet0728U/leetcode/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Trie
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0897-increasing-order-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
