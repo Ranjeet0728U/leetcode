@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -127,9 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
