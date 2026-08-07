@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ranjeet0728U/leetcode/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ranjeet0728U/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ranjeet0728U/leetcode/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Ranjeet0728U/leetcode/tree/master/0463-island-perimeter) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ranjeet0728U/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
