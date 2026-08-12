@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ranjeet0728U/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ranjeet0728U/leetcode/tree/master/0057-insert-interval) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ranjeet0728U/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Ranjeet0728U/leetcode/tree/master/0463-island-perimeter) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Ranjeet0728U/leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/Ranjeet0728U/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Breadth-First Search
 |  |
