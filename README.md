@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ranjeet0728U/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0398-random-pick-index](https://github.com/Ranjeet0728U/leetcode/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Ranjeet0728U/leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/Ranjeet0728U/leetcode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [3731-find-missing-elements](https://github.com/Ranjeet0728U/leetcode/tree/master/3731-find-missing-elements) |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Ranjeet0728U/leetcode/tree/master/0179-largest-number) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Ranjeet0728U/leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Ranjeet0728U/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
