@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ranjeet0728U/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ranjeet0728U/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ranjeet0728U/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Ranjeet0728U/leetcode/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ranjeet0728U/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
