@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Ranjeet0728U/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Ranjeet0728U/leetcode/tree/master/0398-random-pick-index) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ranjeet0728U/leetcode/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranjeet0728U/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
