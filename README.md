@@ -254,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ranjeet0728U/leetcode/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ranjeet0728U/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
