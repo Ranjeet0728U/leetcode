@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Ranjeet0728U/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Ranjeet0728U/leetcode/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Ranjeet0728U/leetcode/tree/master/0415-add-strings) |
+| [0556-next-greater-element-iii](https://github.com/Ranjeet0728U/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ranjeet0728U/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0283-move-zeroes) |
+| [0556-next-greater-element-iii](https://github.com/Ranjeet0728U/leetcode/tree/master/0556-next-greater-element-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ranjeet0728U/leetcode/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Ranjeet0728U/leetcode/tree/master/0415-add-strings) |
+| [0556-next-greater-element-iii](https://github.com/Ranjeet0728U/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Ranjeet0728U/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/Ranjeet0728U/leetcode/tree/master/0856-score-of-parentheses) |
