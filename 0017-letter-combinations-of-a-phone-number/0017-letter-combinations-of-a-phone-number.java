@@ -1,5 +1,5 @@
 class Solution {
-    public String keypad(char num){
+     public String keypad(char num){
         switch(num){
             case '2': return "abc";
             case '3': return "def";
