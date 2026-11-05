@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ranjeet0728U/leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/Ranjeet0728U/leetcode/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjeet0728U/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ranjeet0728U/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranjeet0728U/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Ranjeet0728U/leetcode/tree/master/0556-next-greater-element-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjeet0728U/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjeet0728U/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranjeet0728U/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2454-next-greater-element-iv](https://github.com/Ranjeet0728U/leetcode/tree/master/2454-next-greater-element-iv) |
 ## Sorting
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjeet0728U/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Ranjeet0728U/leetcode/tree/master/2454-next-greater-element-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ranjeet0728U/leetcode/tree/master/3536-maximum-product-of-two-digits) |
