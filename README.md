@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ranjeet0728U/leetcode/tree/master/0002-add-two-numbers) |
 | [0382-linked-list-random-node](https://github.com/Ranjeet0728U/leetcode/tree/master/0382-linked-list-random-node) |
+| [0725-split-linked-list-in-parts](https://github.com/Ranjeet0728U/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ranjeet0728U/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
