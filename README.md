@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranjeet0728U/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ranjeet0728U/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2454-next-greater-element-iv](https://github.com/Ranjeet0728U/leetcode/tree/master/2454-next-greater-element-iv) |
+| [2540-minimum-common-value](https://github.com/Ranjeet0728U/leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Ranjeet0728U/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ranjeet0728U/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ranjeet0728U/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Ranjeet0728U/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjeet0728U/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Ranjeet0728U/leetcode/tree/master/2540-minimum-common-value) |
 ## Number Theory
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ranjeet0728U/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranjeet0728U/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ranjeet0728U/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/Ranjeet0728U/leetcode/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ranjeet0728U/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/Ranjeet0728U/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranjeet0728U/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranjeet0728U/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2454-next-greater-element-iv](https://github.com/Ranjeet0728U/leetcode/tree/master/2454-next-greater-element-iv) |
+| [2540-minimum-common-value](https://github.com/Ranjeet0728U/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
