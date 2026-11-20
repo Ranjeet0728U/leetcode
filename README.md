@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Ranjeet0728U/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ranjeet0728U/leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ranjeet0728U/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Ranjeet0728U/leetcode/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ranjeet0728U/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0389-find-the-difference](https://github.com/Ranjeet0728U/leetcode/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Ranjeet0728U/leetcode/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ranjeet0728U/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ranjeet0728U/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ranjeet0728U/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ranjeet0728U/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Ranjeet0728U/leetcode/tree/master/0463-island-perimeter) |
